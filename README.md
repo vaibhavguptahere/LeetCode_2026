@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vaibhavguptahere/LeetCode_2026/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vaibhavguptahere/LeetCode_2026/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vaibhavguptahere/LeetCode_2026/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
