@@ -11,12 +11,15 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        ListNode* slow = head;
-        ListNode* fast = head;
+        ListNode* slow = head; // slow pointer initialized with the head
+        ListNode* fast = head; // fast pointer initialized with the head
 
-        while (fast != NULL && fast -> next != NULL){
-            slow = slow -> next;
-            fast = fast -> next -> next;
+        // fast != NULL : for condition where no of nodes are odd
+        // fast -> next != NULL : for condition where no of nodes are even
+
+        while (fast != NULL && fast->next != NULL) {
+            slow = slow->next;       // slow moves by 1
+            fast = fast->next->next; // fast moves by 2
         }
         return slow;
     }
