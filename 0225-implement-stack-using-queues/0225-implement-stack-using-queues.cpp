@@ -11,8 +11,10 @@ public:
             q2.push(q1.front());
             q1.pop();
         }
+        // add new elements to q1
         q1.push(x);
 
+        // now push the added elements to the q1 from q2
         while (!q2.empty()) {
             q1.push(q2.front());
             q2.pop();
@@ -25,7 +27,9 @@ public:
         return ans;
     }
 
-    int top() { return q1.front(); }
+    int top() { 
+        return q1.front();
+    }
 
     bool empty() {
         if (q1.empty()) {
