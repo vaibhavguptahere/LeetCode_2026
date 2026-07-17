@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/vaibhavguptahere/LeetCode_2026/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhavguptahere/LeetCode_2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0496-next-greater-element-i](https://github.com/vaibhavguptahere/LeetCode_2026/tree/master/0496-next-greater-element-i) |
 | [0912-sort-an-array](https://github.com/vaibhavguptahere/LeetCode_2026/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -78,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vaibhavguptahere/LeetCode_2026/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/vaibhavguptahere/LeetCode_2026/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vaibhavguptahere/LeetCode_2026/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/vaibhavguptahere/LeetCode_2026/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/vaibhavguptahere/LeetCode_2026/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vaibhavguptahere/LeetCode_2026/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vaibhavguptahere/LeetCode_2026/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
