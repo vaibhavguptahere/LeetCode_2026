@@ -57,8 +57,6 @@ public:
 
             ans.push_back(merged[i]);
         }
-
-
         return ans;
     }
 };
